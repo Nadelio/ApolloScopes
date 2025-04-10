@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\SENGa\\Libraries\\SimpleTesting\\SimpleTesting.jar",
+        "c:\\Users\\SENGa\\Libraries\\SimpleDebug\\SimpleDebug.jar"
+    ]
+}
