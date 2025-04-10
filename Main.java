@@ -26,6 +26,7 @@ public class Main {
 
     private static final String[] reservedScopeKeywords = {"function", "while", "for", "if", "else", "elif", "finally", "struct", "implement"};
     private static final String[] reservedTypeKeywords = {"int"};
+    private static final String[] reservedOperationKeywords = {"out"};
 
     public enum TokenType {
         KEYWORD, IDENTIFIER, PARAMETER_START, PARAMETER_END, END_STATEMENT, SCOPE, END_SCOPE, ERROR, EOF, TYPE, ASSIGNMENT, INT, OUT
