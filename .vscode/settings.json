@@ -2,6 +2,7 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar",
         "..\\SimpleTesting\\SimpleTesting.jar",
-        "..\\SimpleDebug\\SimpleDebug.jar"
+        "..\\SimpleDebug\\SimpleDebug.jar",
+        "..\\SimpleColor\\SimpleColor.jar"
     ]
 }
