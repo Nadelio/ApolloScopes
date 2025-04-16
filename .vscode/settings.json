@@ -3,6 +3,9 @@
         "lib/**/*.jar",
         "..\\SimpleTesting\\SimpleTesting.jar",
         "..\\SimpleDebug\\SimpleDebug.jar",
-        "..\\SimpleColor\\SimpleColor.jar"
+        "..\\SimpleColor\\SimpleColor.jar",
+        "..\\Libraries\\SimpleTesting\\SimpleTesting.jar",
+        "..\\Libraries\\SimpleDebug\\SimpleDebug.jar",
+        "..\\Libraries\\SimpleColor\\SimpleColor.jar"
     ]
 }
